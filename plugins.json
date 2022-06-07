@@ -1,12 +1,7 @@
 {
-  "name": "MyNativeTemplateDefault",
   "plugins": [
     {
-      "name": "Button",
-      "versions": "1.0.0"
-    },
-    {
-      "name": "Input",
+      "name": "MyNativeForm",
       "versions": "1.0.0"
     }
   ]
