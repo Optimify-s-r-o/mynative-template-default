@@ -1,0 +1,13 @@
+{
+  "name": "MyNativeTemplateDefault",
+  "plugins": [
+    {
+      "name": "Button",
+      "versions": "1.0.0"
+    },
+    {
+      "name": "Input",
+      "versions": "1.0.0"
+    }
+  ]
+}
